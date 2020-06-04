@@ -21,4 +21,5 @@ Abstract
  conventional denoisers for the same setting, on several real-world noisy image benchmark datasets. 
   
 Figure
-![Alt text](BP-AIDE/Result.png?raw=true "Title")
+<img width="972" alt="Result" src="https://user-images.githubusercontent.com/31755186/83737167-9a724100-a68d-11ea-92dd-ed5eabf30cdc.png">
+
