@@ -81,8 +81,8 @@ author:
   name             : "Jaeseok Byun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BP-AIDE Project Page: Singal Processing letters Submit"
-#  location         : "Somewhere"
-  email            :
+  location         : "Sungkyunkwan University"
+  email            : "wotjr3868@naver.com"
 
 # Reading Files
 include:
@@ -149,7 +149,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
