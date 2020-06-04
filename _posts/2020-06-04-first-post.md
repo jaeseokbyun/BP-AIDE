@@ -6,7 +6,6 @@ date: 2020-06-03 08:26:28 -0400
 
 Abstract
 
-
  Convolutional neural network (CNN)-based denoisers are recently shown to overwhelm the denoising performances 
  of the conventional prior- or optimization-based methods, particularly for the additive white Gaussian noise (AWGN) case. 
  However, those typical CNN-based denoisers had two main limitations: (1) the superb denoising performances for AWGN do not
@@ -21,3 +20,5 @@ Abstract
  with single real-noise corrupted images and, to the best of our knowledge, first outperforms both CNN-based and 
  conventional denoisers for the same setting, on several real-world noisy image benchmark datasets. 
   
+Figure
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
