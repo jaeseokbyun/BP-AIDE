@@ -23,7 +23,11 @@ date: 2020-06-03 08:26:28 -0400
 
 
 # Figure
-<img width="972" alt="Result" src="https://user-images.githubusercontent.com/31755186/83737167-9a724100-a68d-11ea-92dd-ed5eabf30cdc.png">
+< Visualization samples from BSD(68) which are corrputed by Gaussian noise (sigma=25) >
+![스크린샷 2020-06-04 오후 9 02 57](https://user-images.githubusercontent.com/31755186/83754670-4c6a3700-a6a7-11ea-9b74-8da157981baf.png)
+< Visualization samples from DND >
+![스크린샷 2020-06-04 오후 9 08 39](https://user-images.githubusercontent.com/31755186/83754858-9bb06780-a6a7-11ea-8d3b-8cd97c00a83c.png)
+
 
 
 # Table
