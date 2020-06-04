@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://jaeseokbyun.github.io"
-baseurl                  : ""
+baseurl                  : "/BP-AIDE"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaeseok Byun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "BP-AIDE Project Page: Singal Processing letters Submit"
   location         : "Somewhere"
   email            :
   links:
