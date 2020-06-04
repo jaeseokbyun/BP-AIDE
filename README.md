@@ -22,7 +22,7 @@ Project page url: https://jaeseokbyun.github.io/BP-AIDE/
 
 
 # Figure
-
+![스크린샷 2020-06-04 오후 9 02 57](https://user-images.githubusercontent.com/31755186/83754670-4c6a3700-a6a7-11ea-9b74-8da157981baf.png)
 <img width="972" alt="Result" src="https://user-images.githubusercontent.com/31755186/83737167-9a724100-a68d-11ea-92dd-ed5eabf30cdc.png">
 
 
