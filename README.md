@@ -1,6 +1,7 @@
 # BP-AIDE
 
 Code will be released.
+Project page url: https://jaeseokbyun.github.io/BP-AIDE/
 
 # Abstract
 
