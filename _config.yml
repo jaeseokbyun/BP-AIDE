@@ -81,7 +81,7 @@ author:
   name             : "Jaeseok Byun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BP-AIDE Project Page: Singal Processing letters Submit"
-  location         : "Somewhere"
+#  location         : "Somewhere"
   email            :
 
 # Reading Files
