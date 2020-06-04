@@ -1,5 +1,6 @@
-# BP-AIDE
+# BP-AIDE(Learning Blind Pixelwise Affine Image Denoiser with Single Noisy Images)
 
+# Author: Jaeseok Byun and Taesup Moon
 Code will be released.
 Project page url: https://jaeseokbyun.github.io/BP-AIDE/
 
