@@ -23,8 +23,6 @@ Project page url: https://jaeseokbyun.github.io/BP-AIDE/
 <img width="1067" alt="jaese1" src="https://user-images.githubusercontent.com/31755186/83759897-32cced80-a6af-11ea-9105-395749aabb1b.png">
 
 # Figure
-< Visualization samples from BSD(68) which are corrputed by Gaussian noise (sigma=25) >
-![스크린샷 2020-06-04 오후 9 02 57](https://user-images.githubusercontent.com/31755186/83754670-4c6a3700-a6a7-11ea-9b74-8da157981baf.png)
 < Visualization samples from DND >
 ![스크린샷 2020-06-04 오후 9 08 39](https://user-images.githubusercontent.com/31755186/83754858-9bb06780-a6a7-11ea-8d3b-8cd97c00a83c.png)
 
